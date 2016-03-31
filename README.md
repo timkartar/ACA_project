@@ -15,3 +15,8 @@ What we plan to do next:
 4.Currency recognition so that visually challanged people can easily handled monetary reguisites.
 5.Sign detection.
 6.If time permit,we will try to make aap accesible though voice.
+
+update#31/3/16
+we have been able to create a simple app which recognise text from photo taken via camera.
+to do:
+when all of us comfortable with the achievement so far we are going to try to improve it and convert the output to audio output and the input mode to video instead of photo.
